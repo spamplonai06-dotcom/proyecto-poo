@@ -10,6 +10,6 @@ package Modelo;
  */
 public class Alumno {
     
-    public String nombre;
+    public String año;
     
 }
